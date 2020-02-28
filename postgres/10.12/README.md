@@ -8,7 +8,7 @@ $ ./wihout-volume-run.sh
 
 ````
 
-### Copying Postgres data folder to a volume
+### Copying the Postgres data folder to a volume
 
 ````bash
 
